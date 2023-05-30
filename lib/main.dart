@@ -5,3 +5,5 @@ import 'package:adv_basic/quiz.dart';
 void main() {
   runApp(const Quiz());
 }
+
+// this app for learning only
